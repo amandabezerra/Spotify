@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/", 
-            "text": "Rich Picture Spotify\n\n\nVers\u00e3o 1\n\n\nM\u00e3o livre\n\n\n![Spotify](img/Rich picture_v1_spotify.png)\n\n\nVers\u00e3o 2\n\n\nM\u00e3o livre\n\n\n![Spotify_geral](img/Rich picture_v2_spotify.JPG)\n\n\nFerramenta gr\u00e1fica\n\n\n![Spotify_geral](img/Rich picture_v2_spotify.png)", 
+            "text": "Rich Picture Spotify\n\n\nVers\u00e3o 1\n\n\nM\u00e3o livre\n\n\n\n\nVers\u00e3o 2\n\n\nM\u00e3o livre\n\n\n\n\nFerramenta gr\u00e1fica", 
             "title": "Rich Picture Spotify"
         }, 
         {
@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#mao-livre", 
-            "text": "![Spotify](img/Rich picture_v1_spotify.png)", 
+            "text": "", 
             "title": "M\u00e3o livre"
         }, 
         {
@@ -47,17 +47,17 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#mao-livre_1", 
-            "text": "![Spotify_geral](img/Rich picture_v2_spotify.JPG)", 
+            "text": "", 
             "title": "M\u00e3o livre"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#ferramenta-grafica", 
-            "text": "![Spotify_geral](img/Rich picture_v2_spotify.png)", 
+            "text": "", 
             "title": "Ferramenta gr\u00e1fica"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/", 
-            "text": "Rich Picture Usu\u00e1rio\n\n\nVers\u00e3o 1\n\n\nM\u00e3o livre\n\n\n![Spotify_geral](img/Rich picture_v2_usu\u00e1rio.JPG)\n\n\nFerramenta gr\u00e1fica\n\n\n![Spotify_usu\u00e1rio](img/Rich picture_v2_usu\u00e1rio.png)", 
+            "text": "Rich Picture Usu\u00e1rio\n\n\nVers\u00e3o 1\n\n\nM\u00e3o livre\n\n\n\n\nFerramenta gr\u00e1fica", 
             "title": "Rich Picture Usu\u00e1rio"
         }, 
         {
@@ -72,12 +72,12 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#mao-livre", 
-            "text": "![Spotify_geral](img/Rich picture_v2_usu\u00e1rio.JPG)", 
+            "text": "", 
             "title": "M\u00e3o livre"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#ferramenta-grafica", 
-            "text": "![Spotify_usu\u00e1rio](img/Rich picture_v2_usu\u00e1rio.png)", 
+            "text": "", 
             "title": "Ferramenta gr\u00e1fica"
         }, 
         {
