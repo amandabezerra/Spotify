@@ -2,33 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Documenta\u00e7\u00e3o de Requisitos do Spotify\n\n\nSobre\n\n\nEste \u00e9 um projeto desenvolvido para a disciplina de Requisitos de Software da UnB - FGA.\n\n\nEquipe\n\n\n\n\n\n\n\n\nMatr\u00edcula\n\n\nNome\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n14/0168192\n\n\nEduardo J\u00fanio Veloso Rodrigues\n\n\nEduardojvr\n\n\n\n\n\n\n15/0057113\n\n\nAmanda Bezerra da Silva\n\n\namandabezerra\n\n\n\n\n\n\n18/0053817\n\n\nLucas Filipe de Carvalho Cunha\n\n\nLcunha\n\n\n\n\n\n\n16/0010331\n\n\nJos\u00e9 Aquiles Guedes de Rezende\n\n\naquiles23\n\n\n\n\n\n\n15/0021224\n\n\nRenato Val\u00e9rio Gomes Alencar de Vasconcelos\n\n\nRenatovga2602\n\n\n\n\n\n\n15/0035756\n\n\nGeovanne Santos\n\n\nsaraivinha97\n\n\n\n\n\n\n15/0064535\n\n\nRodrigo Dadamos Lopes da Silva\n\n\nRdadamos", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#documentacao-de-requisitos-do-spotify", 
+            "text": "", 
+            "title": "Documenta\u00e7\u00e3o de Requisitos do Spotify"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#sobre", 
+            "text": "Este \u00e9 um projeto desenvolvido para a disciplina de Requisitos de Software da UnB - FGA.", 
+            "title": "Sobre"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#equipe", 
+            "text": "Matr\u00edcula  Nome  GitHub      14/0168192  Eduardo J\u00fanio Veloso Rodrigues  Eduardojvr    15/0057113  Amanda Bezerra da Silva  amandabezerra    18/0053817  Lucas Filipe de Carvalho Cunha  Lcunha    16/0010331  Jos\u00e9 Aquiles Guedes de Rezende  aquiles23    15/0021224  Renato Val\u00e9rio Gomes Alencar de Vasconcelos  Renatovga2602    15/0035756  Geovanne Santos  saraivinha97    15/0064535  Rodrigo Dadamos Lopes da Silva  Rdadamos", 
+            "title": "Equipe"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/", 
-            "text": "Rich Picture\n\n\nVers\u00e3o 1\n\n\n\n\n\n\nM\u00e3o livre\n\n\n\n\n\n\n\n\nVers\u00e3o 2\n\n\n\n\n\n\nM\u00e3o livre\n\n\n\n\n\n\n\n\n\n\n\n\nFerramenta gr\u00e1fica", 
+            "text": "Rich Picture Spotify\n\n\nVers\u00e3o 1\n\n\n\n\n\n\nM\u00e3o livre\n\n\n\n\n\n\n![Spotify.](Spotify/Rich picture/Vers\u00f5es a m\u00e3o livre/Rich picture_v1_spotify.png)\n\n\nVers\u00e3o 2\n\n\n\n\n\n\nM\u00e3o livre\n\n\n\n\n\n\n![Spotify_geral](Spotify/Rich picture/Vers\u00f5es a m\u00e3o livre/Rich picture_v2_spotify.JPG)\n\n\n\n\n\n\nFerramenta gr\u00e1fica\n\n\n\n\n\n\n![Spotify_geral](Spotify/Rich picture/Vers\u00f5es com ferramentas gr\u00e1ficas/Rich picture_v2_spotify.png)", 
             "title": "Rich Picture Spotify"
         }, 
         {
-            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#rich-picture", 
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#rich-picture-spotify", 
             "text": "", 
-            "title": "Rich Picture"
+            "title": "Rich Picture Spotify"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#versao-1", 
@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#mao-livre", 
-            "text": "", 
+            "text": "![Spotify.](Spotify/Rich picture/Vers\u00f5es a m\u00e3o livre/Rich picture_v1_spotify.png)", 
             "title": "M\u00e3o livre"
         }, 
         {
@@ -47,23 +47,23 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#mao-livre_1", 
-            "text": "", 
+            "text": "![Spotify_geral](Spotify/Rich picture/Vers\u00f5es a m\u00e3o livre/Rich picture_v2_spotify.JPG)", 
             "title": "M\u00e3o livre"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-spotify/#ferramenta-grafica", 
-            "text": "", 
+            "text": "![Spotify_geral](Spotify/Rich picture/Vers\u00f5es com ferramentas gr\u00e1ficas/Rich picture_v2_spotify.png)", 
             "title": "Ferramenta gr\u00e1fica"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/", 
-            "text": "Rich Picture\n\n\nVers\u00e3o 1\n\n\n\n\n\n\nM\u00e3o livre\n\n\n\n\n\n\n\n\n\n\n\n\nFerramenta gr\u00e1fica", 
+            "text": "Rich Picture Usu\u00e1rio\n\n\nVers\u00e3o 1\n\n\n\n\n\n\nM\u00e3o livre\n\n\n\n\n\n\n\n\n\n\n\n\nFerramenta gr\u00e1fica", 
             "title": "Rich Picture Usu\u00e1rio"
         }, 
         {
-            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#rich-picture", 
+            "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#rich-picture-usuario", 
             "text": "", 
-            "title": "Rich Picture"
+            "title": "Rich Picture Usu\u00e1rio"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#versao-1", 
@@ -79,6 +79,36 @@
             "location": "/Modulos/Pre_rastreabilidade/Rich picture/Rich-picture-usu\u00e1rio/#ferramenta-grafica", 
             "text": "", 
             "title": "Ferramenta gr\u00e1fica"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumenta\u00e7\u00e3o-artistas/", 
+            "text": "Argumenta\u00e7\u00e3o Artistas", 
+            "title": "Argumenta\u00e7\u00e3o Artista"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumenta\u00e7\u00e3o-artistas/#argumentacao-artistas", 
+            "text": "", 
+            "title": "Argumenta\u00e7\u00e3o Artistas"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumenta\u00e7\u00e3o-pagamento/", 
+            "text": "Argumenta\u00e7\u00e3o Pagamento\n\n\nVers\u00e3o 1\n\n\n\n\nVers\u00e3o 2", 
+            "title": "Argumenta\u00e7\u00e3o Pagamento"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumenta\u00e7\u00e3o-pagamento/#argumentacao-pagamento", 
+            "text": "", 
+            "title": "Argumenta\u00e7\u00e3o Pagamento"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumenta\u00e7\u00e3o-pagamento/#versao-1", 
+            "text": "", 
+            "title": "Vers\u00e3o 1"
+        }, 
+        {
+            "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumenta\u00e7\u00e3o-pagamento/#versao-2", 
+            "text": "", 
+            "title": "Vers\u00e3o 2"
         }
     ]
 }
