@@ -82,17 +82,17 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-artistas/", 
-            "text": "Argumenta\u00e7\u00e3o Artistas\n\n\n![Argumentacao](img/Argumenta\u00e7\u00e3o artistas_v1.png)", 
+            "text": "Argumenta\u00e7\u00e3o Artistas", 
             "title": "Modelo de Argumenta\u00e7\u00e3o Artista"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-artistas/#argumentacao-artistas", 
-            "text": "![Argumentacao](img/Argumenta\u00e7\u00e3o artistas_v1.png)", 
+            "text": "", 
             "title": "Argumenta\u00e7\u00e3o Artistas"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/", 
-            "text": "Argumenta\u00e7\u00e3o Pagamento\n\n\nVers\u00e3o 1\n\n\n![Argumentacao](img/Argumenta\u00e7\u00e3o Pagamentos_v1.JPG)\n\n\nVers\u00e3o 2\n\n\n![Argumentacao](img/Argumenta\u00e7\u00e3o pagameto_v2.png)", 
+            "text": "Argumenta\u00e7\u00e3o Pagamento\n\n\nVers\u00e3o 1\n\n\n\n\nVers\u00e3o 2", 
             "title": "Modelo de Argumenta\u00e7\u00e3o Pagamento"
         }, 
         {
@@ -102,12 +102,12 @@
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/#versao-1", 
-            "text": "![Argumentacao](img/Argumenta\u00e7\u00e3o Pagamentos_v1.JPG)", 
+            "text": "", 
             "title": "Vers\u00e3o 1"
         }, 
         {
             "location": "/Modulos/Pre_rastreabilidade/Argumentacao/Argumentacao-pagamento/#versao-2", 
-            "text": "![Argumentacao](img/Argumenta\u00e7\u00e3o pagameto_v2.png)", 
+            "text": "", 
             "title": "Vers\u00e3o 2"
         }, 
         {
